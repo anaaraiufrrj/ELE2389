@@ -72,7 +72,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 71.45,E,351.39,E,Unifamiliar,Existente,1955,51.56,HUESCA,HUESCA,EE
 30.28,D,145.78,E,Vivienda individual,Existente,1993,123.13,HUESCA,HUESCA,DE
 41.72,E,202.33,E,Vivienda individual,Existente,1994,74.14,HUESCA,HUESCA,EE
-16.6,C,80,C,Bloque completo,Proyecto Nueva Construcci髇,2014,606,HUESCA,HUESCA,CC
+16.6,C,80,C,Bloque completo,Proyecto Nueva Construcci贸n,2014,606,HUESCA,HUESCA,CC
 72.77,E,359.82,F,Vivienda individual,Existente,1974,96,HUESCA,HUESCA,EF
 36,E,174,E,Vivienda individual,Existente,2001,42,HUESCA,HUESCA,EE
 56.09,E,212.66,E,Vivienda individual,Existente,1962,153.52,HUESCA,HUESCA,EE
@@ -474,7 +474,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 59.71,E,293.37,E,Vivienda individual,Existente,2004,45,HUESCA,HUESCA,EE
 95.91,G,363.53,G,Vivienda individual,Existente,1910,55.36,HUESCA,HUESCA,GG
 58.69,E,287.75,E,Vivienda individual,Existente,1977,129.8,HUESCA,HUESCA,EE
-31.5,D,141.9,D,Unifamiliar,Proyecto Nueva Construcci髇,2015,202.58,HUESCA,HUESCA,DD
+31.5,D,141.9,D,Unifamiliar,Proyecto Nueva Construcci贸n,2015,202.58,HUESCA,HUESCA,DD
 61.34,E,299.71,E,Vivienda individual,Existente,1992,56.05,HUESCA,HUESCA,EE
 47.86,E,232.49,E,Vivienda individual,Existente,1995,84,HUESCA,HUESCA,EE
 82.6,D,319.74,D,Edificio completo,Existente,1988,1723.95,HUESCA,HUESCA,DD
@@ -506,8 +506,8 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 57.5,E,224.3,E,Vivienda individual,Existente,1977,93,HUESCA,HUESCA,EE
 75,G,355.6,G,Vivienda individual,Existente,1962,76,HUESCA,HUESCA,GG
 45.7,E,216.4,E,Vivienda individual,Existente,2007,83.69,HUESCA,HUESCA,EE
-46.63,C,275.76,C,Edificio completo,Proyecto Nueva Construcci髇,2010,3142.84,HUESCA,HUESCA,CC
-46.63,C,275.76,C,Edificio completo,Proyecto Nueva Construcci髇,2010,3142.84,HUESCA,HUESCA,CC
+46.63,C,275.76,C,Edificio completo,Proyecto Nueva Construcci贸n,2010,3142.84,HUESCA,HUESCA,CC
+46.63,C,275.76,C,Edificio completo,Proyecto Nueva Construcci贸n,2010,3142.84,HUESCA,HUESCA,CC
 36.9,E,175.6,E,Vivienda individual,Existente,2001,57.49,HUESCA,HUESCA,EE
 58.5,E,276.5,E,Vivienda individual,Existente,1985,75.68,HUESCA,HUESCA,EE
 55.9,E,266.2,E,Vivienda individual,Existente,1991,64.05,HUESCA,HUESCA,EE
@@ -1024,7 +1024,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 39.39,E,188.97,E,Vivienda individual,Existente,1988,65,HUESCA,HUESCA,EE
 39.42,D,183.6,D,Unifamiliar,Existente,1995,207,HUESCA,HUESCA,DD
 41.59,E,245.51,F,Local,Existente,1991,98,HUESCA,HUESCA,EF
-1.58,A,7.94,A,Unifamiliar,Proyecto Nueva Construcci髇,2018,91.11,HUESCA,HUESCA,AA
+1.58,A,7.94,A,Unifamiliar,Proyecto Nueva Construcci贸n,2018,91.11,HUESCA,HUESCA,AA
 59.66,E,237.07,E,Vivienda individual,Existente,1961,124,HUESCA,HUESCA,EE
 103.53,G,490.92,G,Vivienda individual,Existente,1963,69.41,HUESCA,HUESCA,GG
 33.64,E,162.36,E,Vivienda individual,Existente,2000,107.5,HUESCA,HUESCA,EE
@@ -1042,7 +1042,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 36.03,D,172.33,D,Local,Existente,1965,36,HUESCA,HUESCA,DD
 59.56,E,226.76,E,Vivienda individual,Existente,1981,93,HUESCA,HUESCA,EE
 23.7,D,113.22,D,Vivienda individual,Existente,2005,50,HUESCA,HUESCA,DD
-8.06,B,45.07,B,Bloque completo,Proyecto Nueva Construcci髇,2013,1312.6,HUESCA,HUESCA,BB
+8.06,B,45.07,B,Bloque completo,Proyecto Nueva Construcci贸n,2013,1312.6,HUESCA,HUESCA,BB
 31.09,E,147.24,E,Vivienda individual,Existente,1991,82,HUESCA,HUESCA,EE
 37.8,E,178.54,E,Vivienda individual,Existente,2007,63.05,HUESCA,HUESCA,EE
 45.81,E,216.44,E,Vivienda individual,Existente,2004,44.92,HUESCA,HUESCA,EE
@@ -1108,7 +1108,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 37.07,E,176.94,E,Vivienda individual,Existente,2007,40,HUESCA,HUESCA,EE
 41.79,D,246.69,E,Local,Existente,1990,38,HUESCA,HUESCA,DE
 72.65,E,346.66,E,Unifamiliar,Existente,1888,130,HUESCA,HUESCA,EE
-4.75,A,28.06,A,Bloque completo,Proyecto Nueva Construcci髇,2021,2062.2,HUESCA,HUESCA,AA
+4.75,A,28.06,A,Bloque completo,Proyecto Nueva Construcci贸n,2021,2062.2,HUESCA,HUESCA,AA
 36.64,E,174.64,E,Vivienda individual,Existente,1969,71,HUESCA,HUESCA,EE
 23.87,D,113.97,D,Bloque completo,Existente,2005,80,HUESCA,HUESCA,DD
 67.44,F,319.45,F,Vivienda individual,Existente,1888,81,HUESCA,HUESCA,FF
@@ -1935,7 +1935,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 187.65,G,754.64,G,Vivienda individual,Existente,1995,42.8,HUESCA,HUESCA,GG
 34.83,E,169.93,E,Vivienda individual,Existente,1900,25.16,HUESCA,HUESCA,EE
 35.57,E,169.38,E,Vivienda individual,Existente,1984,87.8,HUESCA,HUESCA,EE
-24.89,C,118.48,C,Unifamiliar,Proyecto Nueva Construcci髇,2014,187.5,HUESCA,HUESCA,CC
+24.89,C,118.48,C,Unifamiliar,Proyecto Nueva Construcci贸n,2014,187.5,HUESCA,HUESCA,CC
 28.74,D,137.02,D,Vivienda individual,Existente,2001,92,HUESCA,HUESCA,DD
 56.72,E,278.76,E,Vivienda individual,Existente,2001,45,HUESCA,HUESCA,EE
 54.24,E,221.14,E,Vivienda individual,Existente,2006,62,HUESCA,HUESCA,EE
@@ -2127,7 +2127,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 25.5,D,108,D,Vivienda individual,Existente,2006,64,HUESCA,HUESCA,DD
 67.1,F,257,E,Vivienda individual,Existente,1977,81.78,HUESCA,HUESCA,FE
 123.6,G,491.8,G,Vivienda individual,Existente,1971,3251.43,HUESCA,HUESCA,GG
-50.85,B,10.47,B,Bloque completo,Proyecto Nueva Construcci髇,2014,4693.45,HUESCA,HUESCA,BB
+50.85,B,10.47,B,Bloque completo,Proyecto Nueva Construcci贸n,2014,4693.45,HUESCA,HUESCA,BB
 44.8,E,180.6,E,Vivienda individual,Existente,1980,141,HUESCA,HUESCA,EE
 71.6,F,360.8,G,Vivienda individual,Existente,1955,66.95,HUESCA,HUESCA,FG
 77.9,G,296.2,F,Vivienda individual,Existente,1980,85.41,HUESCA,HUESCA,GF
@@ -2525,7 +2525,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 43.29,D,241.32,E,Local,Existente,1991,517,HUESCA,HUESCA,DE
 65.6,F,312.34,F,Vivienda individual,Existente,1970,66,HUESCA,HUESCA,FF
 31.88,D,154,D,Unifamiliar,Existente,2007,248,HUESCA,HUESCA,DD
-9.79,B,47.21,B,Bloque completo,Proyecto Nueva Construcci髇,2019,2468.6,HUESCA,HUESCA,BB
+9.79,B,47.21,B,Bloque completo,Proyecto Nueva Construcci贸n,2019,2468.6,HUESCA,HUESCA,BB
 120.73,G,572.54,G,Bloque completo,Existente,1962,58.26,HUESCA,HUESCA,GG
 36.7,E,216.67,E,Vivienda individual,Existente,1995,141,HUESCA,HUESCA,EE
 77.29,C,382.8,C,Edificio completo,Existente,2004,328.65,HUESCA,HUESCA,CC
@@ -3928,7 +3928,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 61.6,E,291.9,F,Vivienda individual,Existente,1990,126,HUESCA,HUESCA,EF
 32,E,153,E,Vivienda individual,Existente,1992,130,HUESCA,HUESCA,EE
 60,E,229.2,E,Vivienda individual,Existente,1983,105,HUESCA,HUESCA,EE
-10.8,B,53.67,B,Bloque completo,Proyecto Nueva Construcci髇,2017,964.55,HUESCA,HUESCA,BB
+10.8,B,53.67,B,Bloque completo,Proyecto Nueva Construcci贸n,2017,964.55,HUESCA,HUESCA,BB
 47.2,E,224,E,Vivienda individual,Existente,1950,83.78,HUESCA,HUESCA,EE
 49.2,E,232.9,E,Vivienda individual,Existente,2001,55.77,HUESCA,HUESCA,EE
 50.6,E,239.9,E,Vivienda individual,Existente,1977,89.11,HUESCA,HUESCA,EE
@@ -4077,7 +4077,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 65.37,F,310.09,F,Vivienda individual,Existente,2002,75.94,HUESCA,HUESCA,FF
 35.66,E,181.69,E,Vivienda individual,Existente,1960,45,HUESCA,HUESCA,EE
 40.87,E,193.9,E,Vivienda individual,Existente,1970,65.37,HUESCA,HUESCA,EE
-17.59,B,105.2,B,Edificio completo,Proyecto Nueva Construcci髇,2013,311.49,HUESCA,HUESCA,BB
+17.59,B,105.2,B,Edificio completo,Proyecto Nueva Construcci贸n,2013,311.49,HUESCA,HUESCA,BB
 45.62,E,269.28,E,Unifamiliar,Existente,1985,60,HUESCA,HUESCA,EE
 32.46,E,153.52,E,Vivienda individual,Existente,2006,77.76,HUESCA,HUESCA,EE
 111.54,D,562.24,D,Local,Existente,1968,142.15,HUESCA,HUESCA,DD
@@ -4885,7 +4885,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 87.55,G,414.7,G,Vivienda individual,Existente,1970,62,HUESCA,HUESCA,GG
 36.46,E,174.6,E,Vivienda individual,Existente,2008,62.24,HUESCA,HUESCA,EE
 69.89,F,331.01,F,Vivienda individual,Existente,1968,60.85,HUESCA,HUESCA,FF
-5.18,A,30.58,A,Unifamiliar,Proyecto Nueva Construcci髇,2023,211.79,HUESCA,HUESCA,AA
+5.18,A,30.58,A,Unifamiliar,Proyecto Nueva Construcci贸n,2023,211.79,HUESCA,HUESCA,AA
 50.99,E,242.46,E,Bloque completo,Existente,1900,608.9,HUESCA,HUESCA,EE
 50.99,E,242.46,E,Bloque completo,Existente,1900,608.9,HUESCA,HUESCA,EE
 50.99,E,242.46,E,Bloque completo,Existente,1900,608.9,HUESCA,HUESCA,EE
@@ -5162,8 +5162,8 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 57.55,E,283.61,E,Vivienda individual,Existente,1992,50,HUESCA,HUESCA,EE
 39.1,E,190.09,E,Vivienda individual,Existente,2009,75,HUESCA,HUESCA,EE
 141.42,G,586.3,G,Vivienda individual,Existente,1968,50.04,HUESCA,HUESCA,GG
-14.8,C,70.5,C,Bloque completo,Proyecto Nueva Construcci髇,2014,3420.4,HUESCA,HUESCA,CC
-14.8,C,72.3,C,Bloque completo,Proyecto Nueva Construcci髇,2014,667.05,HUESCA,HUESCA,CC
+14.8,C,70.5,C,Bloque completo,Proyecto Nueva Construcci贸n,2014,3420.4,HUESCA,HUESCA,CC
+14.8,C,72.3,C,Bloque completo,Proyecto Nueva Construcci贸n,2014,667.05,HUESCA,HUESCA,CC
 57,E,279,E,Vivienda individual,Existente,1999,64.2,HUESCA,HUESCA,EE
 46.66,E,227.33,E,Vivienda individual,Existente,1985,75.45,HUESCA,HUESCA,EE
 69.18,E,340.77,F,Vivienda individual,Existente,2008,54.58,HUESCA,HUESCA,EF
@@ -5447,7 +5447,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 90.07,F,440.46,G,Vivienda individual,Existente,1970,62.11,HUESCA,HUESCA,FG
 32.52,E,157.37,E,Vivienda individual,Existente,1998,122,HUESCA,HUESCA,EE
 60.31,E,297.13,E,Vivienda individual,Existente,2005,86.71,HUESCA,HUESCA,EE
-12.37,B,59.51,C,Bloque completo,Proyecto Nueva Construcci髇,2016,3709.3,HUESCA,HUESCA,BC
+12.37,B,59.51,C,Bloque completo,Proyecto Nueva Construcci贸n,2016,3709.3,HUESCA,HUESCA,BC
 74.53,E,367.69,E,Vivienda individual,Existente,1973,110,HUESCA,HUESCA,EE
 29.16,D,141.45,E,Vivienda individual,Existente,1996,59.85,HUESCA,HUESCA,DE
 88.72,F,334.01,F,Vivienda individual,Existente,1979,64.97,HUESCA,HUESCA,FF
@@ -5868,7 +5868,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 87.5,G,414,G,Vivienda individual,Existente,1950,71,HUESCA,HUESCA,GG
 30,D,142.5,E,Vivienda individual,Existente,1983,110,HUESCA,HUESCA,DE
 54.7,E,208.5,E,Vivienda individual,Existente,1988,72.5,HUESCA,HUESCA,EE
-21.89,C,88.4,C,Unifamiliar,Proyecto Nueva Construcci髇,2016,135,HUESCA,HUESCA,CC
+21.89,C,88.4,C,Unifamiliar,Proyecto Nueva Construcci贸n,2016,135,HUESCA,HUESCA,CC
 83.1,G,394.8,G,Vivienda individual,Existente,1956,44.81,HUESCA,HUESCA,GG
 28.4,D,135.8,D,Vivienda individual,Existente,1983,73,HUESCA,HUESCA,DD
 25.1,D,119.2,D,Vivienda individual,Existente,1998,98.43,HUESCA,HUESCA,DD
@@ -6051,7 +6051,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 82.64,G,391.31,G,Vivienda individual,Existente,1964,62.75,HUESCA,HUESCA,GG
 29.34,D,153.08,E,Vivienda individual,Existente,1888,134,HUESCA,HUESCA,DE
 32.78,D,193.5,E,Local,Existente,1963,306,HUESCA,HUESCA,DE
-10.72,B,52.09,B,Bloque completo,Proyecto Nueva Construcci髇,2013,2951.06,HUESCA,HUESCA,BB
+10.72,B,52.09,B,Bloque completo,Proyecto Nueva Construcci贸n,2013,2951.06,HUESCA,HUESCA,BB
 27.13,D,130.64,D,Vivienda individual,Existente,1998,74.76,HUESCA,HUESCA,DD
 32.87,E,155.69,E,Vivienda individual,Existente,2006,61.32,HUESCA,HUESCA,EE
 59.7,E,283.7,E,Vivienda individual,Existente,1991,93,HUESCA,HUESCA,EE
@@ -6231,7 +6231,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 57.55,E,288.4,F,Vivienda individual,Existente,1970,71.84,HUESCA,HUESCA,EF
 56.83,E,218.61,E,Vivienda individual,Existente,1976,95.85,HUESCA,HUESCA,EE
 31.47,E,149.29,E,Vivienda individual,Existente,2004,70.09,HUESCA,HUESCA,EE
-10.79,B,54.91,B,Bloque completo,Proyecto Nueva Construcci髇,2013,1979.92,HUESCA,HUESCA,BB
+10.79,B,54.91,B,Bloque completo,Proyecto Nueva Construcci贸n,2013,1979.92,HUESCA,HUESCA,BB
 42.8,E,202.47,E,Vivienda individual,Existente,1978,84.15,HUESCA,HUESCA,EE
 32.11,D,151.53,D,Unifamiliar,Existente,1989,182,HUESCA,HUESCA,DD
 51.49,E,243.82,E,Vivienda individual,Existente,1970,52,HUESCA,HUESCA,EE
@@ -6340,7 +6340,7 @@ Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Es
 40.31,E,191.03,E,Vivienda individual,Existente,2000,116.27,HUESCA,HUESCA,EE
 50.86,E,240.71,E,Vivienda individual,Existente,1980,104,HUESCA,HUESCA,EE
 43.17,E,205.04,E,Vivienda individual,Existente,1997,74.14,HUESCA,HUESCA,EE
-2.16,A,9.15,A,Unifamiliar,Proyecto Nueva Construcci髇,2020,116.83,HUESCA,HUESCA,AA
+2.16,A,9.15,A,Unifamiliar,Proyecto Nueva Construcci贸n,2020,116.83,HUESCA,HUESCA,AA
 58.49,E,277.75,E,Vivienda individual,Existente,1961,78,HUESCA,HUESCA,EE
 32.87,D,156.54,D,Unifamiliar,Existente,1995,250,HUESCA,HUESCA,DD
 35.11,E,166.5,E,Bloque completo,Existente,2001,49.9,HUESCA,HUESCA,EE
