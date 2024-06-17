@@ -1,0 +1,22 @@
+Emissao_CO2,Classificacao_Emissao,Consumo,Classificacao_consumo,Tipo_edificio,Estado_edificio,Ano_construcao,Superficie_m2,Municipio,Provincia,Classificacao
+30.11,E,142.33,E,Vivienda individual,Existente,1962,49,ZARAGOZA,ZARAGOZA,EE
+46.06,E,174.42,E,Vivienda individual,Existente,1974,81,ZARAGOZA,ZARAGOZA,EE
+20.3,D,94.16,D,Vivienda individual,Existente,1999,72,ZARAGOZA,ZARAGOZA,DD
+39.21,E,187.66,E,Vivienda individual,Existente,1970,65,ZARAGOZA,ZARAGOZA,EE
+103.75,G,409.03,G,Vivienda individual,Existente,1965,46,ZARAGOZA,ZARAGOZA,GG
+66.94,F,259.25,F,Vivienda individual,Existente,1968,85,ZARAGOZA,ZARAGOZA,FF
+82.03,G,322.58,G,Vivienda individual,Existente,1966,89,ZARAGOZA,ZARAGOZA,GG
+89.53,G,345.79,G,Vivienda individual,Existente,1963,42,ZARAGOZA,ZARAGOZA,GG
+110.47,G,444.25,G,Vivienda individual,Existente,2006,37.72,ZARAGOZA,ZARAGOZA,GG
+33.01,E,158.61,E,Vivienda individual,Existente,1970,70,ZARAGOZA,ZARAGOZA,EE
+41.31,E,199.73,E,Vivienda individual,Existente,1958,62.52,ZARAGOZA,ZARAGOZA,EE
+18.21,D,90.15,D,Vivienda individual,Existente,1992,42.16,ZARAGOZA,ZARAGOZA,DD
+57.82,E,284.38,F,Unifamiliar,Existente,1971,57.39,ZARAGOZA,ZARAGOZA,EF
+62.04,F,240.57,E,Vivienda individual,Existente,1963,57,ZARAGOZA,ZARAGOZA,FE
+197.22,G,793.15,G,Vivienda individual,Existente,1956,36.87,ZARAGOZA,ZARAGOZA,GG
+109.95,G,442.15,G,Vivienda individual,Existente,2006,98,MUEL,ZARAGOZA,GG
+46.85,E,184.56,E,Unifamiliar,Existente,1980,47.52,ZARAGOZA,ZARAGOZA,EE
+45.27,E,182.05,E,Vivienda individual,Existente,2000,39,ZARAGOZA,ZARAGOZA,EE
+102.74,G,40788,G,Vivienda individual,Existente,1969,61,ZARAGOZA,ZARAGOZA,GG
+60.3,F,242.59,E,Vivienda individual,Existente,1964,67.48,ZARAGOZA,ZARAGOZA,FE
+
